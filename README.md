@@ -30,5 +30,4 @@ Key Learnings
 Understood how to manage S3 buckets and objects.
 
 Learned about S3 regions, storage management, and object accessibility.
-
-https://cloud-computing-task1.s3.ap-south-1.amazonaws.com/Sudharshan_AWS_DevOps_Resume.pdf
+s3://cloud-computing-task1/Sudharshan_AWS_DevOps_Resume.pdf
