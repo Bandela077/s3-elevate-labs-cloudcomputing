@@ -25,9 +25,10 @@ Successfully created and tested an S3 bucket.
 
 Verified file upload and storage functionality in AWS S3.
 
+
 Key Learnings
 
 Understood how to manage S3 buckets and objects.
 
-Learned about S3 regions, storage management, and object accessibility.
+Learned about S3 regions, storage management, and object accessibiliy
 s3://cloud-computing-task1/Sudharshan_AWS_DevOps_Resume.pdf
